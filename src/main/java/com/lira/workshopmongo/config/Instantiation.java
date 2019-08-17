@@ -9,8 +9,6 @@ import org.springframework.context.annotation.Configuration;
 import com.lira.workshopmongo.domain.User;
 import com.lira.workshopmongo.repository.UserRepository;
 
-
-
 @Configuration
 public class Instantiation implements CommandLineRunner{
 
